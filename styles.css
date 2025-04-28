@@ -722,7 +722,7 @@
     }
 
     .search {
-        width: 300px;
+        width: 500px;
         height: 75px;
         float: left;
         display: flex;
@@ -735,7 +735,7 @@
     .form1 {
         border-radius: 10px;
         position: absolute;
-        top: 547px;
+        top: 465px;
         left: 10px;
         background: url("studybackground.png");
         background-size: cover;
